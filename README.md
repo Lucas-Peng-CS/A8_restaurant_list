@@ -23,7 +23,7 @@
 
 1.開啟終端機(Terminal)將此專案 Clone 至本機電腦
 
-`git clone https://github.com/Lucas-Peng-CS/A6_restaurant_list.git `
+`git clone https://github.com/Lucas-Peng-CS/A8_restaurant_list.git `
 
 2.進入存放此專案的資料夾
 
